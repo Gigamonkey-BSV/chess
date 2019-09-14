@@ -1,0 +1,28 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gigamonkey-BSV/chess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gigamonkey-BSV/chess/issues"
+  },
+  "homepage": "https://github.com/Gigamonkey-BSV/chess#readme",
+  "dependencies": {
+    "@moneybutton/react-money-button": "^0.24.4",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
